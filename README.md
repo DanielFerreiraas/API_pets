@@ -1,7 +1,7 @@
 # API_pets
 Esse é um projeto pessoal cujo objetivo é, um sistema de gerenciamento de pets.
 
-#Passo a passo para rodar a APi
+# Passo a passo para rodar a APi
 
 - Copie a URL do repositório e faça um clone do projeto.
 - Abra o projeto no vsCode e no terminal digite o comando "npm install".
